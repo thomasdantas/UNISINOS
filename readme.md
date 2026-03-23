@@ -1,4 +1,4 @@
-# Algoritmos realizados na cadeiras de Programacao I e II, Engenharia de Software e Algoritmos: Arvores binarias.
+# Algorithms developed in Programming I and II, Software Engineering, and Algorithms courses: Binary Trees.
 
 - Java
 - NodeJs
